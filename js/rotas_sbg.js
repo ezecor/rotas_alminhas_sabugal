@@ -26,7 +26,7 @@ L.control.scale({
     imperial: false
 }).addTo(map);
 map.attributionControl.setPrefix(
-    '&copy; <a href="https://sites.google.com/view/fmtcultura/projeto">Projecto Alminhas</a>' + ' &copy; Mapa Interactivo: <a href="mailto:ezcorreia@gmail.com">Ezequiel Correia</a> | &copy; CR1: <a href="https://www.cm-lousada.pt/pages/665">CM Lousada</a> | <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>'
+    '&copy; <a href="https://sites.google.com/view/fmtcultura/projeto">Projecto Alminhas</a>' + ' &copy; Mapa Interactivo: <a href="mailto:ezcorreia@gmail.com">Ezequiel Correia</a> | &copy; PR2: <a href="https://www.cm-sabugal.pt/concelho-do-sabugal/turismo-cultura-lazer/desporto/percursos-pedestres/pr2-vale-do-cesarao/">CM Sabugal</a> | <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>'
 );
 var lc = L.control.locate({
     strings: {
